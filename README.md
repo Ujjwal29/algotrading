@@ -26,9 +26,11 @@ Currently, the backtesting can be done for following two tasks
 ### File description
 
 1. multiple_sma.py : use multiple SMA over a stock and tell which SMA worked best by calculating the final portfolio value against each SMA
+2. stockDelivery.py : gives the stock name from the nse website which has delivery percentage higher than a certain value (70%)
 
 
 ### Built with
 
 - [Backtrader](https://pypi.org/project/backtrader/) - Python Library used
 - Find the docs for backtrader [here](https://www.backtrader.com/docu/)
+- [nsetools](https://nsetools.readthedocs.io/en/latest/)  - Python library to download daily OHLC stock data from National Stock Exchange (NSE)
