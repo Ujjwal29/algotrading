@@ -18,7 +18,7 @@ Currently, the backtesting can be done for following two tasks
 
 - Check the reliability of a trading strategy (_SMA crossover for now_) by checking the portfolio value after certain back testing period
 - Use multiple period SMA over a stock and tell which one worked best by calculating the final portfolio value against each of them
-- Generate charts & check the buy/sell options over the ![plot](images/Reliance.png)
+- Generate charts & check the buy/sell options over the ![plot](images/Reliance_buy_sell.png)
 
 
 ### File description
